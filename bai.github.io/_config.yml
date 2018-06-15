@@ -3,14 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Future #博客名称
+title: 生活就像一盒巧克力 #博客名称
 subtitle:  #副标题
-description:  只争朝夕 # 对站点的描述，搜索引擎会抓取，可以自定义（这个还是加上比较好）
+description:  Java,MySql,Oracle,HTML,大数据,爬虫 # 对站点的描述，搜索引擎会抓取，可以自定义（这个还是加上比较好）
 keywords:
-author: LBC1996 # 作者名字
+author: LBC # 作者名字
 language: zh-Hans # 语言 简体中文
 timezone:
-avatar: /uploads/images/avatar.jpg #头像
+avatar: /uploads/images/timg.jpeg #头像
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com

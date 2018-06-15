@@ -5,7 +5,7 @@ categories:
     -Hexo使用
 tags:
     -博客编写
-description: 第一次使用markdown的方式写博客,记录一下语法的使用
+description: <center>第一次使用markdown的方式写博客,记录一下语法的使用</center>
 ---
 
 <div id="music163player">
@@ -43,7 +43,16 @@ tags:   # 这里写的标签会自动汇集到 tags 页面上
 - 个人博客
 description: #博客的详细介绍
 ```
-
+<font color="#FF0000"> 我可以设置这一句的颜色哈哈 </font>
+<font size=6> 我还可以设置这一句的大小嘻嘻 </font>
+<font size=5 color="#FF0000"> 我甚至可以设置这一句的颜色和大小呵呵</font>
+<center>居中它</center>
+``` base
+<font color="#FF0000"> 我可以设置这一句的颜色哈哈 </font>
+<font size=6> 我还可以设置这一句的大小嘻嘻 </font>
+<font size=5 color="#FF0000"> 我甚至可以设置这一句的颜色和大小呵呵</font>
+<center>居中它</center>
+```
 表格
 
 | Tables   |      Are      |  Cool |
